@@ -19,7 +19,7 @@ html, body {
 #title {
   font-family: Georgia, 'Times New Roman', Times, serif
 }
-#pic1 {
+#pic1, #pic3 {
   float: left; 
   margin: 20px;
 }
