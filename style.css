@@ -9,7 +9,7 @@ html, body {
 }
 
 @media (min-width:769px){
-    body{background:blue}
+    body{background:white}
 }
 
 #special:hover {
